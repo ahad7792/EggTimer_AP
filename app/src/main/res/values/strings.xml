@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Egg Timer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="_0_30">0:30</string>
+    <string name="go">Go!</string>
+    <string name="todo">TODO</string>
+</resources>
